@@ -5,7 +5,8 @@
 <p align="left">Halo 👋 I'm a Final-year Software engineering Student From India. My Moto is to make impactful difference.It is my passion to create something Cool 😎, I also enjoy driving, in fact, I love everything I do ✌🏻</p>
 
 ###
-<div>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -23,13 +24,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
 </div>
-  <div align="right">
-    <a href="https://open.spotify.com/user/\Pranav_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r3aty4za3i0pisqdnf9qpjo26&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-</div>
-
 
 ###
 
