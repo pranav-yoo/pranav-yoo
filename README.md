@@ -1,3 +1,4 @@
+<img src="pyoo_banner.png" alt="GitHub Banner" width="100%" />
 <h2 align="left">Yoo👋! I'm Pranav Yamagekar, SWE from Mumbai,India</h2>
 
 ###
