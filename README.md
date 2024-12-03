@@ -29,13 +29,13 @@
 
 <div align="left">
   <a href="https://www.pranav-yo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=dribbble&label=&color=2D3436&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=dribbble&label=&color=2D3436&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"/>
   </a>
-  <a href="www.pranav.yamagekar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:www.pranav.yamagekar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
-  <a href="pranav.yamagekar@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="mailto:pranav.yamagekar@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"/>
   </a>
   <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=181818&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <a href="https://www.linkedin.com/in/pranavyamagekar/" target="_blank">
