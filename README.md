@@ -65,7 +65,13 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=r3aty4za3i0pisqdnf9qpjo26)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/\Pranav_">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r3aty4za3i0pisqdnf9qpjo26&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
 
 
