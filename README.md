@@ -47,16 +47,15 @@
   <a href="https://www.instagram.com/pranavyamagekar_?utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=visualstudio&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  <a href="https://open.spotify.com/user/r3aty4za3i0pisqdnf9qpjo26?si=74abac20bf164d9e" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=visualstudio&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/pranav-yoo/pranav-yoo/output/snake.svg" alt="Snake animation" />
 
 ###
