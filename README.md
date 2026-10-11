@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.pranav-yo.com" target="_blank">
+  <a href="https://www.pranavyamagekar.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=dribbble&label=&color=2D3436&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"/>
   </a>
   <a href="mailto:www.pranav.yamagekar@gmail.com" target="_blank">
